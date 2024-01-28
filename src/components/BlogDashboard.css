@@ -1,0 +1,19 @@
+td, th {
+    border: 1px solid #0e0d0d;
+    padding: 8px;
+  }
+  
+  
+  th {
+    background-color: #835622;
+    font-weight: bold;
+  }
+
+  h1{
+    display: block;
+    margin-top: 20px;
+  }
+  
+  title{
+    font-family: bold;
+  }

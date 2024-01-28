@@ -1,0 +1,26 @@
+/* Navbar container */
+.navbar {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    background-color: #030303;
+    padding: 10px 20px;
+  }
+  
+  /* Navbar links */
+  .navbar1  {
+    color: #8bf7ab;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  a:hover {
+    color: #f93636;
+  }
+
+  .navbar2  {
+    color: #8bf7ab;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
